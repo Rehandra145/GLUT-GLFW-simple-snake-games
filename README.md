@@ -50,7 +50,7 @@ brew install glew glfw freeglut
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/Rehandra145/GLUT-GLFW-simple-snake-games.git
 cd snake-game
 ```
 
